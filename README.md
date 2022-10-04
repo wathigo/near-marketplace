@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 ### `yarn start`
 
-You can find the live link [here]()
+You can find the live link [here](https://wathigo.github.io/near-marketplace/)
